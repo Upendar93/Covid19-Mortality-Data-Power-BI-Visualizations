@@ -1,5 +1,4 @@
 # Covid19-Mortality-Data-Power-BI-Visualizations
-# COVID-19 Mortality Analysis Report (United States)
 
 ## 📌 Project Overview
 This project presents a comprehensive Power BI report analyzing COVID-19 mortality trends in the United States.  
