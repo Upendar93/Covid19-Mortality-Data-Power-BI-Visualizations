@@ -37,19 +37,23 @@ The report is designed as a **multi-page analytical report** (not a dashboard), 
 ### 1️⃣ Overview Page
 - KPI cards summarizing overall COVID impact
 - Monthly COVID-19 death trend (line chart)
+  ![Dashboard Overview](Overview.png) 
 
 ### 2️⃣ Age Analysis
 - COVID-19 deaths by age group (bar chart)
 - Highlights vulnerable population segments
+   ![Dashboard Overview](AgeAnalysis.png) 
 
 ### 3️⃣ Cause Comparison
 - Comparison of COVID-19, Pneumonia, and Influenza deaths
 - Helps contextualize COVID severity relative to other respiratory causes
+  ![Dashboard Overview](cause_comparison.png) 
 
 ### 4️⃣ State Map
 - Filled map showing state-wise COVID impact
 - Color intensity represents higher or lower mortality impact
 - Interactive tooltips provide detailed state-level insights
+-  ![Dashboard Overview](statemap.png) 
 
 ---
 
